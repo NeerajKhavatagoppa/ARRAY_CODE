@@ -18,7 +18,7 @@ int main() {
         arr[n - i - 1] = temp;
     }
 
-    printf("Reversed array:\n");
+    printf("Reversed arraysssss:\n");
     for (int i = 0; i < n; i++) {
         printf("%d ", arr[i]);
     }
